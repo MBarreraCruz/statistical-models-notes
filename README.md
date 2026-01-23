@@ -1,6 +1,6 @@
-## Spatial Models — Notes
+## Models — Notes
 
-This repository contains technical notes on **spatial models** used in
+This repository contains technical notes on **models** used in
 epidemiology and applied statistics, with a focus on:
 
 - intuition,
