@@ -15,7 +15,7 @@ The materials are intended as:
 ## Available notes
 
 - **Understanding the LCAR model**
-  - [PDF version](lcar_notes.pdf)
+  - [PDF version](lcar/lcar_notes.pdf)
   - Source: `lcar_notes.Rmd`
 
 These notes focus on intuition, assumptions, and interpretation rather
