@@ -12,6 +12,15 @@ The materials are intended as:
 - 🎯 interview support,
 - 🧠 and a personal technical reference.
 
+## Available notes
+
+- **Understanding the LCAR model**
+  - [PDF version](lcar_notes.pdf)
+  - Source: `lcar_notes.Rmd`
+
+These notes focus on intuition, assumptions, and interpretation rather
+than exhaustive derivations.
+
 ---
 
 ## Scope
